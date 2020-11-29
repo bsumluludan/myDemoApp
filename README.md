@@ -1,0 +1,1 @@
+This project is about sum positive numbers in a given index range.
